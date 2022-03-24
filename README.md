@@ -4,7 +4,7 @@ Installation สำหรับ Unity Project
 
 1. สร้าง Unity Project แบบ 3D
 2. Import SoL_FinalProj.unitypackage
-3. ติดตั้ง Post Peocessing Package โดยเข้าไปที่ Window > Package Manager จากนั้นทำการค้นหาและติดตั้ง Post Processing
+3. ติดตั้ง Post Processing Package โดยเข้าไปที่ Window > Package Manager จากนั้นทำการค้นหาและติดตั้ง Post Processing
 4. เพิ่ม Scene ใน Build Settings โดยเข้าไปที่ File > Build Settings จากนั้นนำ Scene ในโฟลเดอร์ Scenes มาใส่ในช่อง Scenes In Build โดยเรียงลำดับดังนี้
 
         0 MainMenu
