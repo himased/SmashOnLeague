@@ -17,3 +17,6 @@ Installation สำหรับ Unity Project
   
         4 CafeteriaMapDay
 5. ตั้งค่า Build สำหรับ Windows และ Build
+
+สามารถโหลด unitypackage ได้จาก :
+https://drive.google.com/drive/folders/1qtlM54evIvsh5CUMuEYsD4RN2ciob8so?usp=sharing
